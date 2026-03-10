@@ -1,2 +1,2 @@
 # paper-reviews
-This repository contains personal reviews of major ML/AI papers
+This repository contains personal reviews of ML/AI papers
