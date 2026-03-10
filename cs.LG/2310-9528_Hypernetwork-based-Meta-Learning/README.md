@@ -1,6 +1,5 @@
-# Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks
+# MaRGen: Multi-Agent LLM Approach for Self-Directed Market Research and Analysis
 
-arxiv : [https://arxiv.org/abs/2310.09528](https://arxiv.org/abs/2310.09528)
+arxiv : [https://arxiv.org/abs/2508.01370](https://arxiv.org/abs/2508.01370)
 
-authors : Woojin Cho, Kookjin Lee, Donsub Rim, Noseong Park
-
+authors : Roman Koshkin, Pengyu Dai, Nozomi Fujikawa, Masahito Togami, Marco Visentini-Scarzanella
